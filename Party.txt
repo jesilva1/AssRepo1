@@ -2,3 +2,8 @@ My Guests
 ------------
 - Claudio
 - Carolina
+- Ricardo
+
+Drink List
+------------
+- Vodka
